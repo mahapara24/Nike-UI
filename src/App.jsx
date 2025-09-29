@@ -8,7 +8,7 @@ const App = () => {
   return <div>
     <Navigation />
     <Hero />
-    //hello
+    //he
    </div>;
 };
 export default App;
